@@ -1,1 +1,1 @@
-# cosmos_ignite_cli
+# cosmos ignite cli
